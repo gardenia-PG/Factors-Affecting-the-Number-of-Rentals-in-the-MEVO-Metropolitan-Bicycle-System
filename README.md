@@ -16,3 +16,5 @@ bike-sharing system, MEVO, urban mobility, bicycle rentals, transport, spatial a
 
 ## Field of science and technology according to OECD requirements: 
 Engineering and Technology, Transport Engineering
+
+<a href="https://doi.org/10.5281/zenodo.18589039"><img src="https://zenodo.org/badge/1154253881.svg" alt="DOI"></a>
